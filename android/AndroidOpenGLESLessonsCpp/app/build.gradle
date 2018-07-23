@@ -1,5 +1,6 @@
 apply plugin: 'com.android.application'
 
+
 def platformVersion = 18    //openGLES 3 min Version
 
 android {
